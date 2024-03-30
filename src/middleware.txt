@@ -1,6 +1,0 @@
-// Funcion que se presesa antes de que vaya a las rutas
-// Next auth ya viene con middleware  hecho
-
-// export { default } from "next-auth/middleware"
-
-// export const config = { matcher: ["/dashboard"]}
